@@ -8,7 +8,7 @@ Starting in August we have implemented a platform for student electronic portfol
 
 ## Activities Proposed
 
-* Continued development and enhancement of the four TWO Portfolio themes creating a directory of additional discipline-specific artifact taxonomies.
+* Continued development and enhancement of the four TWU Portfolio themes creating a directory of additional discipline-specific artifact taxonomies.
 * Creation of other copiable pre-populated templates for [SPLOTs](https://splot.ca) and course aggregation hubs
 * Development of a syndication platform for aggregating portfolio content for analyzing and highlighting activity across the system
 * A series of Technical / Media How To posts on the Portfolios sites https://create.twu.ca/eportfolios/
